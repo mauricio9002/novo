@@ -1,0 +1,33 @@
+.cabecalho{
+    background-color: ;
+}
+
+.esplicacao{ 
+    background-color: aqua;
+}
+ .home{
+display: flex;
+top: 0vh;
+left: 0vh;
+transform: translate(0vh,-15vh);
+width: 4vh;
+height: 4vh;
+}
+
+.logo{
+    display: flex;
+    top: 0vh;
+    left: 0vh;
+    transform: translate(0vh,-4vh);
+    width: 15vh;
+    height: 15vh;
+
+}
+.carro{
+     display: flex;
+    top: 0vh;
+    left: 0vh;
+    transform: translate(43vh,-34vh);
+    width: 3vh;
+    height: 3vh;
+}
